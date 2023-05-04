@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm MRHUMPLErrr</h1>
-<h3 align="center">A postgraduate student from China</h3>
+<h1 align="center">Hi 👋, I'm MRHUMBLErrr</h1>
 
 ### 🎓Education
 |Academic Qualification|Time|School|Faculty|Programme|
