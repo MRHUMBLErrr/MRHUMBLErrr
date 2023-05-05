@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm MRHUMBLErrr</h1>
 
-### 🎓Education
-|Academic Qualification|Time|School|Faculty|Programme|
-|:----:|:----:|:----:|:----:|:----:|
-|Bachelor of Engineering|September 2019-June 2022|University of Central Lancashire|Science and Technology|Electronic Engineering|
-|Master of Research|October 2022-October 2023|Imperial College London|Physics|Machine Learning and Big Data in the Physical Sciences|
-
 ### 🧑‍💻Work/Internship Experience
 |Company|Time|Department|Position|
 |:----:|:----:|:----:|:----:|
