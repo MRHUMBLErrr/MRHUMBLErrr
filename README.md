@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MRHUMBLErrr</h1>
+<h1 align="center">Hi 👋, I'm Ruochen(Tomlinson) Zhang</h1>
 
 ### 🧑‍💻Work/Internship Experience
 |Company|Time|Department|Position|
